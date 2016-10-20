@@ -1,0 +1,18 @@
+{
+  "name": "bookmarks",
+  "version": "1.0.0",
+  "description": "bookmarks code exercise",
+  "main": "server.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "keywords": [
+    "bookmarks"
+  ],
+  "author": "Matt Racine",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.9.4",
+    "body-parser": "^1.8.3"
+  }
+}
